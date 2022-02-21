@@ -59,7 +59,7 @@ luox is a free, open-access and open-source platform for documenting and reporti
 - Article describing the platform: https://doi.org/10.12688/wellcomeopenres.16595.2
 
 ## Outreachy or GSoC
-- This project is suitable for either GSoC or Outreachy
+- This project is suitable for either GSoC (350 hours) or Outreachy
 
 ## Required skills:
 - Good knowledge of programming in JavaScript
@@ -79,8 +79,6 @@ luox is a free, open-access and open-source platform for documenting and reporti
 ## Difficulty level:
 
 Medium
-
----
 
 ---
 
