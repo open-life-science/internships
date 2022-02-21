@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /guidance/students-applying-outreachy/
-title: Advice for students applying to InterMine through Outreachy
+title: Advice for students applying to OLS through Outreachy
 ---
 
 Outreachy differs from GSoC in many aspects. Unlike GSoC, Outreachy participants can contribute in design work, documentation, community management, marketing, etc. Also, Outreachy applicants don't have to be students, and could be graduates, people returning to work after a break, or perhaps something else.
@@ -21,16 +21,16 @@ All accepted applicants of this process are eligible for the Contributing period
 
 ## Select a project and Contribute
 
-Browse our [project ideas list](../../project-ideas/2019/). If you're interested in a specific project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Please feel free to pop onto the #Outreachy channel on our [chat server](http://chat.intermine.org) if you get stuck or have questions.
+Browse our [project ideas list](../../project-ideas/2019/). If you're interested in a specific project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Please feel free to pop onto the #Outreachy channel on our [chat server](http://chat.OLS.org) if you get stuck or have questions.
 
 Please note that you are required to make atleast one contribution to be eligible to be selected as an intern. Applicants are also required to [record contributions](https://www.outreachy.org/docs/applicant/#record-contributions) on the outreachy website. When in doubt, ask the project mentor! It's good to always ask for suggestions.
 
 ## Getting started
 
-- Take the [FlyMine](https://flymine.readthedocs.io/en/latest/) tutorial or watch some helpful [videos](http://intermine.org/tutorials/). InterMine has lots of mines (see the [registry](http://registry.intermine.org/)), FlyMine is an InterMine instance loaded with fruit fly data. This is how people access data in an InterMine using the web browser.
-- Take the [Python](https://github.com/intermine/intermine-ws-python-docs/) or [Perl](https://metacpan.org/pod/distribution/Webservice-InterMine/lib/Webservice/InterMine/Cookbook.pod) InterMine tutorials. InterMine has [client libraries](https://intermine.readthedocs.io/en/latest/web-services/) in Python, Perl, JavaScript, R and Java. This is how people access data in an InterMine using the command line. We also have an early [JavaScript tutorial](https://hackmd.io/QvITbTCSQkKWYjE2i_Xj_w#) under development. 
+- Take the [FlyMine](https://flymine.readthedocs.io/en/latest/) tutorial or watch some helpful [videos](http://OLS.org/tutorials/). OLS has lots of mines (see the [registry](http://registry.OLS.org/)), FlyMine is an OLS instance loaded with fruit fly data. This is how people access data in an OLS using the web browser.
+- Take the [Python](https://github.com/OLS/OLS-ws-python-docs/) or [Perl](https://metacpan.org/pod/distribution/Webservice-OLS/lib/Webservice/OLS/Cookbook.pod) OLS tutorials. OLS has [client libraries](https://OLS.readthedocs.io/en/latest/web-services/) in Python, Perl, JavaScript, R and Java. This is how people access data in an OLS using the command line. We also have an early [JavaScript tutorial](https://hackmd.io/QvITbTCSQkKWYjE2i_Xj_w#) under development. 
 
-Now you have a pretty good idea of how people use InterMine to search genomic data!
+Now you have a pretty good idea of how people use OLS to search genomic data!
 
 ## Apply!
 
@@ -50,15 +50,15 @@ We expect to receive, as we did last year, lots of high quality applications. So
 
 ## Useful links
 
-- We're [@intermineorg](https://twitter.com/intermineorg) on twitter.
-<!-- - We have a [Outreachy specific mailing list](https://lists.cam.ac.uk/mailman/listinfo/gen-intermine-gsoc-public) - feel free to ask any questions!  -->
-- We have a #gsoc-and-outreachy channel on our discord server at [chat.intermine.org](https://chat.intermine.org). 
-- InterMine developer mailing list. [Joining link](https://lists.intermine.org/mailman/listinfo/dev) and [Archive](https://lists.intermine.org/pipermail/dev/) 
-<!-- -- _please use the InterMine Outreachy mailing list for Outreachy related issues_ -->
-- InterMine's blog. [Here's a blog post](https://intermineorg.wordpress.com/2016/11/22/cool-intermine-features-roundup/) about some of the cool things the community has done with InterMine resources. 
-- [Our interactive web services docs](http://iodocs.apps.intermine.org/)
-- Our very in-the-works new ClojureScript UI. [Demo](http://bluegenes.apps.intermine.org/), [repo](https://github.com/intermine/bluegenes)
-- [Developer documentation](http://intermine.readthedocs.io/en/latest/)
+- We're [@OLSorg](https://twitter.com/OLSorg) on twitter.
+<!-- - We have a [Outreachy specific mailing list](https://lists.cam.ac.uk/mailman/listinfo/gen-OLS-gsoc-public) - feel free to ask any questions!  -->
+- We have a #gsoc-and-outreachy channel on our discord server at [chat.OLS.org](https://chat.OLS.org). 
+- OLS developer mailing list. [Joining link](https://lists.OLS.org/mailman/listinfo/dev) and [Archive](https://lists.OLS.org/pipermail/dev/) 
+<!-- -- _please use the OLS Outreachy mailing list for Outreachy related issues_ -->
+- OLS's blog. [Here's a blog post](https://OLSorg.wordpress.com/2016/11/22/cool-OLS-features-roundup/) about some of the cool things the community has done with OLS resources. 
+- [Our interactive web services docs](http://iodocs.apps.OLS.org/)
+- Our very in-the-works new ClojureScript UI. [Demo](http://bluegenes.apps.OLS.org/), [repo](https://github.com/OLS/bluegenes)
+- [Developer documentation](http://OLS.readthedocs.io/en/latest/)
 
 ## Outreachy links
 

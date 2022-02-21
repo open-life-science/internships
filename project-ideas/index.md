@@ -1,4 +1,13 @@
-- [2020 GSoC idea list](2020) - under construction
-- [2019 GSoC idea list](2019) 
-- [2018 GSoC idea list](2018)
-- [2017 GSoC idea list](http://gmod.org/wiki/GSOC_Project_Ideas_2017) (as part of the Open Genome Informatics umbrella organisation)
+---
+layout: page
+title: 2022 Project ideas list
+permalink: /project-ideas/2022/
+---
+
+## Table of Contents: 
+{:.no_toc}
+
+- table of contents
+{:toc}
+
+## Ideas list:

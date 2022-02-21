@@ -20,17 +20,17 @@ Once proposals have been finalised, student proposals will be graded based on th
 
 ## Resourcefulness
 - Can the student carry out tasks on their own over a three month period?
-- Lower points for gross overcommunication ("what should I name this variable?"), better if they quietly and competently get the job done but interact at appropriate times, e.g. InterMine bugs, sensible progress reports.
+- Lower points for gross overcommunication ("what should I name this variable?"), better if they quietly and competently get the job done but interact at appropriate times, e.g. OLS bugs, sensible progress reports.
 - Is the student capable of following existing guidelines and instructions where appropriate?
 
 ## Experience
 
 - Does the student have reasonable evidence they've competently done something relevant to this before? e.g. one or more of
   - a GitHub profile,
-  - pull requests on InterMine's repos
+  - pull requests on OLS's repos
   - published applications
   - code from a uni assignment?
-- Note: we _don't_ require a PR to an intermine project. It's handy as a source of evidence, but any of the others should do just fine.
+- Note: we _don't_ require a PR to an OLS project. It's handy as a source of evidence, but any of the others should do just fine.
 - Absolutely no work available - not even a published app, some work experience, or code from a class assignment, is a red flag.
 
 # How the ranking process works

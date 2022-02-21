@@ -23,7 +23,7 @@ Once proposals have been finalised, applicant proposals will be graded based on 
 ## Team working skills
 - Can the applicant carry out tasks on their own over a 1.5 month period?
 - Clear evidence of communication skills
-  - Lower points for gross overcommunication ("what should I name this variable?"), better if they quietly and competently get the job done but interact at appropriate times, e.g. InterMine bugs, sensible progress reports.
+  - Lower points for gross overcommunication ("what should I name this variable?"), better if they quietly and competently get the job done but interact at appropriate times, e.g. OLS bugs, sensible progress reports.
 - Is the applicant capable of following existing guidelines and instructions where appropriate?
 - Does the applicant's behaviour suggest potential mentorship skills in the longer term? 
 
@@ -33,10 +33,10 @@ It's important for us to see some of the following in the application:
 
 - Does the applicant have reasonable evidence they've competently done something relevant to this before? e.g. one or more of
   - a GitHub profile,
-  - pull requests on InterMine's repos
+  - pull requests on OLS's repos
   - published applications
   - code from a uni assignment?
-- Note: we for GSoC _don't_ require a PR to an InterMine project. It's handy as a source of evidence, but any of the others should do just fine. For Outreachy, at least one contribution is mandatory, but the contribution could also be something like an issue raised, documentation amended, mockups created, or contributing to a discussion topic. 
+- Note: we for GSoC _don't_ require a PR to an OLS project. It's handy as a source of evidence, but any of the others should do just fine. For Outreachy, at least one contribution is mandatory, but the contribution could also be something like an issue raised, documentation amended, mockups created, or contributing to a discussion topic. 
 - Absolutely no work available - not even a published app, some work experience, or code from a class assignment, is a red flag.
 
 # Extras

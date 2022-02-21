@@ -46,12 +46,12 @@ Accepted students are invited to participate in the following calls:
 **Call template:**  [GitHub](final-presentation-practice) [HackMD](https://hackmd.io/@yoyehudi/r1D4lxtPBv)  
 
   - Students are reminded of the feedback exerise we did last call
-  - Students present for five minutes, practicing what they'll share with the whole InterMine community at the end of the month
+  - Students present for five minutes, practicing what they'll share with the whole OLS community at the end of the month
     - Each other student provides one bit of positive feedback and one suggestion to improve for each talk. 
     
 ### Final Evaluation Period: **Final presentations**
 
-**Who attends:** All the InterMine community is invited.  
+**Who attends:** All the OLS community is invited.  
 **Call template:**  [GitHub](final-presentations) [HackMD](https://hackmd.io/@yoyehudi/SkNXYlYvB)  
 
   - Students present their refined presentations, with a strict 5-minute time limit. 

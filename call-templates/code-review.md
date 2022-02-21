@@ -1,5 +1,5 @@
 ---
-tags: GSoC, InterMine, GSoC-template
+tags: GSoC, OLS, GSoC-template
 ---
 
 # GSoC cohort call: What makes code good + code review practice
@@ -15,7 +15,7 @@ Once you've joined the call:
     
 
 Attendees: Name / Student or Mentor? / Project / Twitter / GitHub / [Emoji mood](https://emojipedia.org/)
-- Yo Yehudi / Org admin / t: @yoyehudi + @intermineorg / G: @yochannah 😊🎉
+- Yo Yehudi / Org admin / t: @yoyehudi + @OLSorg / G: @yochannah 😊🎉
 - 
 - 
 - 
@@ -104,7 +104,7 @@ This time with the code repo you’ve been working on for GSoC.
 
 ### Sharing + feedback 
 _(7 minutes per person)_
-Share the code repository (or just one of them, if you have multiple repos) that you’ve been working on with InterMine for GSoC.
+Share the code repository (or just one of them, if you have multiple repos) that you’ve been working on with OLS for GSoC.
 Your group mates will spend a couple of minutes looking at your code repo, and like before:
 - Try to find 1-2 things to improve
 - Try to find 1-2 good things about the repo / code

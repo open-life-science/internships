@@ -4,10 +4,10 @@ permalink: /guidance/interns-accepted/
 title: Advice for interns accepted for GSoC and Outreachy
 ---
 
-First of all, welcome to InterMine! We're excited to have you working with us this year.
+First of all, welcome to OLS! We're excited to have you working with us this year.
 
 You should go through the GSoC or Outreachy guide based on which program you are selected in.
-We'll try to generally adhere to the [Google Manuals](https://developers.google.com/open-source/gsoc/resources/guide) and [Outreachy Internship Guide](https://www.outreachy.org/docs/internship/) to avoid repetition, but here are a few InterMine-specific guidelines which apply for both Google Summer of Code and Outreachy.
+We'll try to generally adhere to the [Google Manuals](https://developers.google.com/open-source/gsoc/resources/guide) and [Outreachy Internship Guide](https://www.outreachy.org/docs/internship/) to avoid repetition, but here are a few OLS-specific guidelines which apply for both Google Summer of Code and Outreachy.
 
 ## Communication
 
@@ -15,7 +15,7 @@ You'll establish a personal rhythm with your mentor, but please bear the followi
 
 ### Chat
 
-You can come hang at [chat.intermine.org](http://chat.intermine.org) in the various project and outreachy channels, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
+You can come hang at [chat.OLS.org](http://chat.OLS.org) in the various project and outreachy channels, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
 
 For Outreachy, every two weeks, Outreachy interns, mentors, and alums will have an informal chat on the private Outreachy Zulip chat server. The goal of these chats is to encourage the interns to connect with each other. Read more about it [here](https://www.outreachy.org/docs/internship/#chats).
 
@@ -33,9 +33,9 @@ All code must be to a high standard, documented and well-commented, and accompan
 
 We use GitHub for our source control, with a [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)-like branching model. New work is done in personal forked repo branches,  periodically merged into the upstream dev branch when it appears stable.  master contains only stable releases merged from dev.
 
-You should follow a similar model - treat `github.com/intermine/yourproject` as upstream and work on a branch your own fork, i.e. `github.com/yourusername/yourproject`, merging (or PRing for existing projects) periodically. Remember, pushed commits (to your own repo or InterMine's) prove you're alive and working on the project! ;)
+You should follow a similar model - treat `github.com/OLS/yourproject` as upstream and work on a branch your own fork, i.e. `github.com/yourusername/yourproject`, merging (or PRing for existing projects) periodically. Remember, pushed commits (to your own repo or OLS's) prove you're alive and working on the project! ;)
 
-We'll fork your repo so there will always be an InterMine upstream.
+We'll fork your repo so there will always be an OLS upstream.
 
 ### Licence
 
@@ -70,7 +70,7 @@ For Outreachy, Interns are required to blog every two weeks about their internsh
 
 ## Final Report
 
-Each student/intern will present their project at the end of August at the InterMine Community Call - a friendly teleconference call attended by the InterMine community -- developers and biologists who use InterMine. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a live demonstration of your project but can be slides or video demo instead. 
+Each student/intern will present their project at the end of August at the OLS Community Call - a friendly teleconference call attended by the OLS community -- developers and biologists who use OLS. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a live demonstration of your project but can be slides or video demo instead. 
 
 Each student will also write up their project. This will take the form of a short blog post with the following sections:
 

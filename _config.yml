@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Internships @ InterMine
-email: gen-intermine-gsoc-public@lists.cam.ac.uk
-description: >- # Mini-site for InterMine's participation in Google Summer of Code and Outreachy as a mentor organisation.
+title: Internships @ OLS
+email: internships-admins@openlifesci.org
+description: >- # Mini-site for OLS's participation in Google Summer of Code and Outreachy as a mentor organisation.
 baseurl: "/internships" # the subpath of your site, e.g. /blog
-url: "http://intermine.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: intermineorg
-github_username:  intermine
-blog: https://intermineorg.wordpress.com/tag/gsoc/
+url: "https://openlifesci.org" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: openlifesci
+github_username:  open-life-science
 
 # Build settings
 markdown: kramdown

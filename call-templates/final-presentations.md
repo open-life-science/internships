@@ -1,5 +1,5 @@
 ---
-tags: GSoC, InterMine, GSoC-template
+tags: GSoC, OLS, GSoC-template
 note: this template is also available via hackmd: https://hackmd.io/oqRnkfsaRVmOqhzkTRasBg?edit
 ---
 
@@ -16,7 +16,7 @@ Once you've joined the call:
     
 
 Attendees: Name / [Student|Mentor|CommunityMember] / Project / Twitter / GitHub / [Emoji mood](https://emojipedia.org/)
-- Yo Yehudi / Org admin / t: @yoyehudi + @intermineorg / G: @yochannah 😊🎉
+- Yo Yehudi / Org admin / t: @yoyehudi + @OLSorg / G: @yochannah 😊🎉
 - 
 - 
 - 
