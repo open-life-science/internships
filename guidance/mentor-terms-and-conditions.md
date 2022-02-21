@@ -28,8 +28,6 @@ OLS Obligations
 OLS will support all mentors throughout their mentorship period,
 providing both guidance and technical support.
 
-All non-Cambridge based mentors will be matched with a mentor from the
-OLS core team for support and backup.
 
 Mentor Obligations
 ==================
