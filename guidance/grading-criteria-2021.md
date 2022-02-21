@@ -43,7 +43,7 @@ It's important for us to see some of the following in the application:
 
 ## Mentorship
 
-Does the applicant have evidence of potential mentorship skills? This criterion is not required in order to be a successful applicant, but it may help us decide in the case of multiple well-qualified applicants, as we value interns and students who are able to return to our community and help to teach others in the longer term.
+Does the applicant have evidence of potential mentorship skills? This criterion is not required in order to be a successful applicant, but it may help us decide in the case of multiple well-qualified applicants, as we value interns and contributors who are able to return to our community and help to teach others in the longer term.
 
 # How the ranking process works
 

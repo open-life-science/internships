@@ -12,7 +12,7 @@ For GSoC, OLS functions as an umbrella organisation for community members who ha
 
 ## Get started
 
-Review the application advice for students section, which has details on how to apply for [GSoC](guidance/students-applying-gsoc/) and [Outreachy](guidance/students-applying-outreachy/) with OLS.
+Review the application advice for contributors section, which has details on how to apply for [GSoC](guidance/contributors-applying-gsoc/) and [Outreachy](guidance/contributors-applying-outreachy/) with OLS.
 
 ## Contribute to OLS! (outside of GSoC and Outreachy)
 

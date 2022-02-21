@@ -13,15 +13,9 @@ We'll try to generally adhere to the [Google Manuals](https://developers.google.
 
 You'll establish a personal rhythm with your mentor, but please bear the following points in mind:
 
-### Chat
-
-You can come hang at [chat.OLS.org](http://chat.OLS.org) in the various project and outreachy channels, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
-
-For Outreachy, every two weeks, Outreachy interns, mentors, and alums will have an informal chat on the private Outreachy Zulip chat server. The goal of these chats is to encourage the interns to connect with each other. Read more about it [here](https://www.outreachy.org/docs/internship/#chats).
-
 ### Videoconferencing
 
-Most of our students met via videoconferencing software, e.g. Skype, once every one or two weeks. You may need to meet more (or less!) often throughout the project life cycle.
+Most of our contributors met via videoconferencing software, e.g. Zoom or Skype, once every one or two weeks. You may need to meet more (or less!) often throughout the project life cycle.
 
 ## Writing code
 
@@ -60,7 +54,7 @@ From the [Outreachy Internship Guide](https://www.outreachy.org/docs/internship/
 
 >Rarely, interns work less than full-time, or cannot work for all 12 weeks. In that case, interns will need to arrange an internship extension with their mentor. Internships cannot be extended for more than 5 weeks.
 
-If you're affected by COVID-19 and have exams or other things going on, reducing your hours is fine, but always make sure your mentors know what to expect. 
+If you're affected by COVID-19 and have exams or other things going on, reducing your hours is fine, but always make sure your mentors know what to expect.
 
 ## Outreach
 
@@ -70,18 +64,18 @@ For Outreachy, Interns are required to blog every two weeks about their internsh
 
 ## Final Report
 
-Each student/intern will present their project at the end of August at the OLS Community Call - a friendly teleconference call attended by the OLS community -- developers and biologists who use OLS. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a live demonstration of your project but can be slides or video demo instead. 
+Each contributor/intern will present their project at the end of internship / coding period at an OLS Community Call - a friendly teleconference call attended by the OLS community. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a live demonstration of your project but can be slides or video demo instead.
 
-Each student will also write up their project. This will take the form of a short blog post with the following sections:
+Each contributor will also write up their project. This will take the form of a short blog post with the following sections:
 
-* Summary of project goals 
+* Summary of project goals
   * Briefly restate what was in your project proposal.
 * Summary of project achievements
   * What did you achieve?
   * Screenshots and code snippets are a good idea!
   * Acceptable to point to your other blog posts.
   * Link to final tool, GitHub URL etc.
-* Self assessment 
+* Self assessment
   * What could you have done better? Lessons learned?
   * What are you particularly proud of?
 * Future work

@@ -1,5 +1,5 @@
 # OLS Internships
-OLS Internship informational mini-site for gsoc/outreachy mentors and students
+OLS Internship informational mini-site for gsoc/outreachy mentors and contributors
 
 If you're a mentor and you'd like to modify or add a project, please make a PR to add your modifications
 

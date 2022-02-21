@@ -15,7 +15,7 @@ Once you've joined the call:
 - Don't forget to turn on your webcam! :) 
     
 
-Attendees: Name / Student or Mentor? / Project / Twitter / GitHub / Emoji mood
+Attendees: Name / contributor or Mentor? / Project / Twitter / GitHub / Emoji mood
 - Yo Yehudi / Org admin / t: @yoyehudi + @OLSorg / G: @yochannah 😊🎉
 - 
 - 
@@ -45,19 +45,19 @@ Icebreaker question: [e.g. What’s your favourite dinosaur (or prehistoric anim
     - [add road map info]
 
 ## Group introductions
-Quick intro for each student + project (students share their plans with the group, 1-2 minutes) ~10-15 minutes total. Feel free to add questions!
+Quick intro for each contributor + project (contributors share their plans with the group, 1-2 minutes) ~10-15 minutes total. Feel free to add questions!
 
-- [name=Student name here] / [project name]
-    - [add questions / comments here]
-    - [add questions / comments here]
-    - [add questions / comments here]
-
-- [name=Student name here] / [project name]
+- [name=contributor name here] / [project name]
     - [add questions / comments here]
     - [add questions / comments here]
     - [add questions / comments here]
 
-- [name=Student name here] / [project name]
+- [name=contributor name here] / [project name]
+    - [add questions / comments here]
+    - [add questions / comments here]
+    - [add questions / comments here]
+
+- [name=contributor name here] / [project name]
     - [add questions / comments here]
     - [add questions / comments here]
     - [add questions / comments here]
@@ -77,7 +77,7 @@ _(~5 minutes)_
     - **Conferences:** Keep your eye open for open-source conferences that are related to your projects. If they’re relatively cheap and local we may be able to help you attend - speak with your mentor. 
     
 ## Final Presentations
-As part of your final evaluation, students need to present their projects at a community call. This call will be at [time / date]. See it in your time zone: [insert http://arewemeetingyet.com/ date here]
+As part of your final evaluation, contributors need to present their projects at a community call. This call will be at [time / date]. See it in your time zone: [insert http://arewemeetingyet.com/ date here]
 
 ## 💬 What makes a project good? 
 _Break-out rooms (3-4 people per room, ~10 minutes in breakout rooms + 10 minutes follow up)_

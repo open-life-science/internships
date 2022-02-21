@@ -38,12 +38,12 @@ An important challenge for the project is to migrate data from spreadsheets, whe
 
 - Manuel Lera Ramirez, manulera14@gmail.com
 
-Student guidance: Please always email _all_ mentors in the same mail if you would like to ask questions or discuss the project.
+contributor guidance: Please always email _all_ mentors in the same mail if you would like to ask questions or discuss the project.
 
 ## Expected outcome:
 
 Development of a first version of a tool to perform the data refinement required to migrate from spreadsheets to the database. The task could focus only on the program for refinement, but also developing a web interface for migration is a possibility.
-In addition to mentorship, we will organise two half-day sessions with a professional Research Software Engineer for helping and advising the student, and for code review.
+In addition to mentorship, we will organise two half-day sessions with a professional Research Software Engineer for helping and advising the contributor, and for code review.
 
 ## Difficulty level:
 Medium if you have experience with string matching, easier if you know a bit of biology.
@@ -108,7 +108,7 @@ The **Journal Policy Tracker** is your go-to place where you can find all the op
 - Pritish Samal, pritish.samal918@gmail.com
 - Tiz might want to?
 
-Student guidance: Please always email _all_ mentors in the same mail if you would like to ask questions or discuss the project.
+contributor guidance: Please always email _all_ mentors in the same mail if you would like to ask questions or discuss the project.
 
 At the end of the program, the mentee is expected to do a successful migration of the existing server to an Express & GraphQL based backend.
 
@@ -148,7 +148,7 @@ The **Journal Policy Tracker** is your go-to place where you can find all the op
 - Isaac Miti, ikayztm@gmail.com
 - Yo - yochannah@gmail
 
-Student guidance: Please always email _all_ mentors in the same mail if you would like to ask questions or discuss the project.
+contributor guidance: Please always email _all_ mentors in the same mail if you would like to ask questions or discuss the project.
 
 At the end of the program, the mentee is expected to have a successful separation, merge and deployment of the Frontend.
 

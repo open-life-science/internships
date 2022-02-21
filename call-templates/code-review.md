@@ -14,7 +14,7 @@ Once you've joined the call:
 - Don't forget to turn on your webcam! :) 
     
 
-Attendees: Name / Student or Mentor? / Project / Twitter / GitHub / [Emoji mood](https://emojipedia.org/)
+Attendees: Name / contributor or Mentor? / Project / Twitter / GitHub / [Emoji mood](https://emojipedia.org/)
 - Yo Yehudi / Org admin / t: @yoyehudi + @OLSorg / G: @yochannah 😊🎉
 - 
 - 

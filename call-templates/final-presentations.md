@@ -15,7 +15,7 @@ Once you've joined the call:
 - Don't forget to turn on your webcam! :) 
     
 
-Attendees: Name / [Student|Mentor|CommunityMember] / Project / Twitter / GitHub / [Emoji mood](https://emojipedia.org/)
+Attendees: Name / [contributor|Mentor|CommunityMember] / Project / Twitter / GitHub / [Emoji mood](https://emojipedia.org/)
 - Yo Yehudi / Org admin / t: @yoyehudi + @OLSorg / G: @yochannah 😊🎉
 - 
 - 
@@ -48,7 +48,7 @@ _(5 minutes)_
 
 ### 🖥 Presentations! 
 _5 minutes per person + time for questions._
-Feedback should *always* be in the form of one thing to improve and one thing you liked. If students run over time, provide suggestions for ways to reduce the length. 
+Feedback should *always* be in the form of one thing to improve and one thing you liked. If contributors run over time, provide suggestions for ways to reduce the length. 
 
 - [name=NAME HERE] - [PROJECT NAME HERE]
     - Presenter: add links to repo, slides, etc.
@@ -67,7 +67,7 @@ Feedback should *always* be in the form of one thing to improve and one thing yo
 
 ## :rose: Thank yous and wrap-up
 
-- **Mentors** - while the students have done amazing work, we couldn’t have gotten this far without the help of:
+- **Mentors** - while the contributors have done amazing work, we couldn’t have gotten this far without the help of:
     - 2019 Mentors: [name here]🌞, [name here]🌞, [name here], [name here], [name here]
     - Potential mentors who helped during the application period: [name here]🌞, [name here]
     - (All people marked with 🌞 are graduates from previous GSoCs 🎉 who returned again in later years as mentors :heart:)

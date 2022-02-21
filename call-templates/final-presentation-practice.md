@@ -15,7 +15,7 @@ Once you've joined the call:
 - Don't forget to turn on your webcam! :) 
     
 
-Attendees: Name / Student or Mentor? / Project / Twitter / GitHub / [Emoji mood](https://emojipedia.org/)
+Attendees: Name / contributor or Mentor? / Project / Twitter / GitHub / [Emoji mood](https://emojipedia.org/)
 - Yo Yehudi / Org admin / t: @yoyehudi + @OLSorg / G: @yochannah 😊🎉
 - 
 - 
@@ -76,7 +76,7 @@ This is a reminder of the feedback session we did last time. Read through before
 
 ### 🖥 Presentations! 
 _Practice time: 5 minutes per person + time for feedback._
-Feedback should *always* be in the form of one thing to improve and one thing you liked. If students run over time, provide suggestions for ways to reduce the length. 
+Feedback should *always* be in the form of one thing to improve and one thing you liked. If contributors run over time, provide suggestions for ways to reduce the length. 
 
 - [name=NAME HERE] - [PROJECT NAME HERE]
     - Presenter: add links to repo, slides, etc.
