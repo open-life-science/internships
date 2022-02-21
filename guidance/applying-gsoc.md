@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /guidance/contributors-applying-gsoc/
+permalink: /guidance/applying-gsoc/
 title: Advice for contributors applying to OLS through GSoC
 ---
 
 ## Select a project
 
-Browse our [project ideas list](../../project-ideas/2022/). If you're interested in a specific project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Note that while all projects are affiliated with Open Life Science (OLS), OLS is an umbrella organisation, meaning that mentors from one project might not be familiar with other project details. 
+Browse our [project ideas list](../../project-ideas/2022/). If you're interested in a specific project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Note that while all projects are affiliated with Open Life Science (OLS), OLS is an umbrella organisation, meaning that mentors from one project might not be familiar with other project details.
 
 ## Apply!
 

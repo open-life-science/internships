@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /guidance/contributors-applying-outreachy/
+permalink: /guidance/applying-outreachy/
 title: Advice for contributors applying to OLS through Outreachy
 ---
 
@@ -41,6 +41,7 @@ We expect to receive, as we did last year, lots of high quality applications. So
 
 - We're [@openlifesci](https://twitter.com/openlifesci) on twitter.
 - [OLS's blog](https://openlifesci.org/posts)
+
 ## Outreachy links
 
 - [The Outreachy contributor guide](https://www.outreachy.org/docs/applicant/): A must read guide for applicants.
