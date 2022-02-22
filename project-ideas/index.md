@@ -106,7 +106,7 @@ The **Journal Policy Tracker** is your go-to place where you can find all the op
 ## Possible mentors:
 
 - Pritish Samal, pritish.samal918@gmail.com
-- Tiz might want to?
+- Yo Yehudi, yochannah@gmail.com
 
 contributor guidance: Please always email _all_ mentors in the same mail if you would like to ask questions or discuss the project.
 
