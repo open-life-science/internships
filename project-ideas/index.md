@@ -123,7 +123,7 @@ At the end of the program, the mentee is expected to do a successful migration o
 
 The **Journal Policy Tracker** is your go-to place where you can find all the open-source journals and their policies. Currently the Frontend of this project is on React and React Bootstrap. This project aims to decouple the Frontend from CSS Frameworks for layout and presentation using Grid and Flex in place.
 
-- Repository: [codeisscience/journal-policy-tracker-frontend](https://github.com/codeisscience/journal-policy-tracker-front)
+- Repository: [codeisscience/journal-policy-tracker-frontend](https://github.com/codeisscience/journal-policy-tracker-frontend)
 - Frontend Preview: [journal-policy-tracker.netlify.app](https://journal-policy-tracker.netlify.app/)
 
 ## Outreachy or GSoC
