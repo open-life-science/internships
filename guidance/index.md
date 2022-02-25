@@ -11,5 +11,5 @@ permalink: /guidance/
 - [Proposal grading criteria](grading-criteria-2022.md)
 
 ## Mentors
-- [Guidance for mentors](mentors)
+- [Guidance for mentors](mentors.md)
 - [GSoC Mentor Terms and Conditions](mentor-terms-and-conditions.md)
