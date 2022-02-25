@@ -8,7 +8,7 @@ Welcome to the Open Life Science (OLS) internships homepage! We're excited that 
 
 OLS is a mentoring & training program for Open Science ambassadors. You can read more about the OLS community on the [OLS Website](https://openlifesci.org/)
 
-For GSoC, OLS functions as an umbrella organisation for community members who have open source code projects.
+For Google Summer of Code (GSoC), OLS functions as an umbrella organisation for community members who have open source code projects.
 
 ## Get started
 
