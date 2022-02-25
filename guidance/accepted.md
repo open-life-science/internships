@@ -82,4 +82,4 @@ Each contributor will also write up their project. This will take the form of a 
   * If you could work on your project longer, what features would you like to see added?
   * What's left to do?
 
-This blog post will be "permanent" and for GSoC will be used to submit to Google as your work product.
+This blog will be your permanent record of your GSoC contributions.
